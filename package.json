@@ -14,7 +14,7 @@
     "type": "git",
     "url": "https://github.com/eodos/redux-instagraph.git"
   },
-  "author": "Wes Bos",
+  "author": "David Paul Pena",
   "license": "MIT",
   "homepage": "https://eodos.github.io/redux-instagraph",
   "dependencies": {
