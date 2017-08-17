@@ -5,7 +5,7 @@ module.exports = {
   devtool: 'source-map',
   entry: ['./client/instagraph'],
   output: {
-    path: path.join(__dirname, 'dist'),
+    path: path.join(__dirname, 'build/static'),
     filename: 'bundle.js',
     publicPath: '/static/'
   },
